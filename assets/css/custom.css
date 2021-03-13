@@ -1,0 +1,54 @@
+/* Banner */
+.banner-text {
+  letter-spacing: 0;
+  font-size: 50px;
+}
+
+.landing-icon-container {
+  margin-top: 2em;
+}
+
+.landing-icon-container .icon {
+  margin: 0 0.4rem;
+  transition: 0.4s;
+}
+
+.landing-icon-container .icon:hover {
+  color: rgb(173, 173, 173);
+}
+
+/* Projects */
+.projects-wrapper {
+  padding-top: 2em;
+}
+
+.projects-title {
+  padding-bottom: 0.6em;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.project-card {
+  border: solid 2px black;
+}
+
+.project-award {
+  font-weight: 450;
+  color: black;
+}
+
+/* About */
+.about-content {
+  padding: 0 3em;
+}
+
+/* !Not working 
+.about-text {
+  color: rgb(212, 212, 212);
+}
+*/
+
+/* Footer */
+.return-top {
+  text-decoration: none;
+}
